@@ -8,8 +8,6 @@
 ![GitHub language]
 [![GitHub License]](LICENSE)
 
-#
-
 </div>
 
 ## Introduction
