@@ -7,7 +7,9 @@
 ![GitHub License](https://img.shields.io/github/license/onmyojiwm/onmyoji?style=flat&label=License&labelColor=%231e1e2e&color=%23e78284)
 
 </div>
+
 ---
+
 ## Overview
 Onmyoji is a dynamic tiling Wayland compositor built using wlroots and written in Zig. It aims to provide a desktop environment-like experience by incorporating features like an integrated bar, app launcher, and GTK shell.
 
