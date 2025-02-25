@@ -1,7 +1,11 @@
 # Onmyoji
 A Dynamic Tiling Wayland Compositor using wlroots and Zig.  
+
+## Overview
+Onmyoji is a dynamic tiling wayland compositor built using wlroots and programmed in Zig.  
   
-The main repository is on [GitHub](https://github.com/FallenGoddess7/onmyoji "A dynamic tiling Wayland compositor using wlroots and written in Zig."), which is where the issue tracker may be found and where contributions are accepted.
+The main repository is on [GitHub](https://github.com/FallenGoddess7/onmyoji "A dynamic tiling Wayland compositor using wlroots and written in Zig."), which is where the issue tracker may be found and where contributions are accepted.  
+A read-only mirror exists on [GitLab](https://gitlab.com/onmyoji/onmyoji "A dynamic tiling Wayland compositor using wlroots and written in Zig.").  
 
 ## Roadmap
 something...
