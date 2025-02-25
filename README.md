@@ -19,5 +19,5 @@ something ...
 [swayfx](https://github.com/WillPower3309/swayfx "Sway with added eye candy.")  
 wlroots  
 wayland  
-river  
+[river](https://codeberg.org/river/river "A dynamic tiling Wayland compositor.")  
 etc  
