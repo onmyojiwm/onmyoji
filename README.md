@@ -1,19 +1,13 @@
 # Onmyoji
-
-<!--
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-![GitHub top language](https://img.shields.io/github/languages/top/onmyojiwm/onmyoji)
+![GitHub top language](https://img.shields.io/github/languages/top/onmyojiwm/onmyoji?style=flat&logo=zig&logoColor=%23fab387&label=Zig&labelColor=%231e1e2e&color=%23fab387)
+![GitHub License](https://img.shields.io/github/license/onmyojiwm/onmyoji?style=flat&label=License&labelColor=%231e1e2e&color=%23e78284)
 
 
 
 
-![Badge Workflow] 
-[![Badge License]][License] 
-![Badge Language] 
-[![Badge Pull Requests]][Pull Requests] 
-[![Badge Issues]][Issues] 
-![Badge Hi Mom]
--->
+
+
+
 
 
 
