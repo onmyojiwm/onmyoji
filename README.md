@@ -1,13 +1,15 @@
 <div align = center>
 
----
+#
+
 # ***Onmyoji***
 [![GitHub Issues]](https://github.com/onmyojiwm/onmyoji/issues "Onmyoji issues.")
 [![GitHub Pull requests]](https://github.com/onmyojiwm/onmyoji/pulls "Onmyoji Pull requests.")
 ![GitHub language]
 [![GitHub License]](LICENSE)
 
----
+#
+
 </div>
 
 ## Introduction
