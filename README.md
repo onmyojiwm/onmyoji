@@ -16,7 +16,7 @@ something ...
 
 ## Acknowledgements
 [sway](https://github.com/swaywm/sway "An i3-compatible Wayland Compositor.")  
-swayfx  
+[swayfx](https://github.com/WillPower3309/swayfx "Sway with added eye candy.")  
 wlroots  
 wayland  
 river  
