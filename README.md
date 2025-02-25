@@ -6,9 +6,9 @@ A Dynamic Tiling Wayland Compositor using wlroots and Zig.
 something ...
 
 ## Acknowledgements
-[sway](https://github.com/swaywm/sway "An i3-compatible Wayland Compositor.")
-swayfx
-wlroots
-wayland
-river
-etc
+[sway](https://github.com/swaywm/sway "An i3-compatible Wayland Compositor.")  
+swayfx  
+wlroots  
+wayland  
+river  
+etc  
