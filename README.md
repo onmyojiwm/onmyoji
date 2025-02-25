@@ -6,11 +6,9 @@ something...
 
 ## Documentation
 something...
-
-## Configuration
+### Configuration
 something...
-
-## Building
+### Building
 something...  
 
 ## Contributing
