@@ -1,6 +1,4 @@
 # Onmyoji
-A Dynamic Tiling Wayland Compositor using wlroots and Zig.  
-
 ## Overview
 Onmyoji is a dynamic tiling wayland compositor built using wlroots and programmed in Zig.  
   
