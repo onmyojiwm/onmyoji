@@ -1,6 +1,14 @@
 # Onmyoji
 A Dynamic Tiling Wayland Compositor using wlroots and Zig.
 
+## Roadmap
+something...
+
+## Documentation
+something...
+
+## Configuration
+something...
 
 ## Building
 something...  
