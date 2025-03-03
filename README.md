@@ -11,7 +11,7 @@
 </div>
 
 ## Introduction
-Onmyoji is a dynamic tiling Wayland compositor built using wlroots and written in Zig. It aims to provide a desktop environment-like experience by incorporating features like an integrated bar, app launcher, and GTK shell.
+Onmyoji is a dynamic tiling Wayland compositor built using wlroots and written in Zig. It aims to provide a desktop environment-like experience by providing miscelaneous features like an integrated bar, app launcher, and GTK shell.
 
 The main repository is held on [GitHub](https://github.com/onmyojiwm/onmyoji "A dynamic tiling Wayland compositor using wlroots and written in Zig."), which is where the issue tracker is located and where issues and contributions can be submitted.  
 A read-only mirror is held on [GitLab](https://gitlab.com/onmyoji/onmyoji "A dynamic tiling Wayland compositor using wlroots and written in Zig.").  
@@ -21,7 +21,16 @@ Note: Onmyoji is still in active development and has yet to have a major release
 ```
 
 ## Roadmap
-TBD
+- Implement core using wlroots
+- Implement some basic eye candy features
+- Rebase code to be independent and no longer require wlroots
+- Begin implementing full eye candy features.
+  - Blur
+  - Rounded coreners
+  - Shadows
+  - Animations
+  - Any other I think of down the road
+Note: While Onmyoji is in active development changes may be made to the roadmap as neccesary while the project grows and changes.
 
 ## Building
 TBD
@@ -30,7 +39,7 @@ TBD
 TBD
 
 ## Contributing
-For any new features, enhancements, or suggestions regarding Onmyoji, please submit a pull request or open an issue. If you have ideas that might be outside of the project's scope, open a discussion, and we can determine if it fits. For more details on contributing please see the [wiki](# "Currently a dead link to nowhere.").
+For any new features, enhancements, or suggestions regarding Onmyoji, please submit a pull request or open an issue. If you have ideas that might be outside of the project's scope, open a discussion, and we can determine if it fits. For more details on contributing please see the [wiki](# "Currently a dead link to nowhere."). (WIP currently a link to nowhere)
 
 ## Acknowledgements
 [wayland-book](https://wayland-book.com/introduction.html "Intro to the Wayland Protocol.") - For explaining the Wayland Protocol in depth.  
